@@ -7,7 +7,7 @@ All data can be downloaded from [google drive](https://drive.google.com/drive/fo
 
 Link to Kaggle competition: [kaggle](https://www.kaggle.com/c/tinkoffai-cv-ocr)
 
-## Requrements:
+## Requerments:
 
 - torch
 - torchvision
