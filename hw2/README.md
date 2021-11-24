@@ -1,4 +1,4 @@
-# Homework 1
+# Homework 2
 
 Hi! This is second homework of DL course by Tinkoff AI. In this work you will train a model to get text embeddings.
 
